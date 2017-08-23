@@ -1,0 +1,38 @@
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandEvaluator.dll
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandEvaluator.pdb
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandEvaluator.xml
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+c:\users\titi\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\VAMemory.dll
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandHistories.Objects.dll
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandHistories.Parser.dll
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\NLog.dll
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandHistories.Objects.pdb
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\HandHistories.Parser.pdb
+C:\Users\titi\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\NLog.xml
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\HandEvaluator.pdb
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\HandEvaluator.xml
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\HandHistories.Objects.pdb
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\HandHistories.Parser.pdb
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\bin\Debug\NLog.xml
+C:\Users\Mario\Desktop\ConsoleApp7T\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\HandEvaluator.pdb
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\HandEvaluator.xml
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\HandHistories.Objects.pdb
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\HandHistories.Parser.pdb
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\bin\Debug\NLog.xml
+C:\Users\Mario\Desktop\Poker\ConsoleApp7T (bot)\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
